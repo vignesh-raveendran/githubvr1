@@ -1,2 +1,4 @@
 created test1.txt file
 hello t1
+HELLO
+HAI
